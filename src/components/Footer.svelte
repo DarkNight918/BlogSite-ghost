@@ -23,7 +23,6 @@
     align-self: center;
   }
   .Footer-svelte img {
-    width: 50px;
     margin: 0 0 0 0.5em;
   }
 </style>
